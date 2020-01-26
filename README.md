@@ -10,10 +10,10 @@ First > change ip_change.cpp > int ip_change(){~myIP}
 
 
 
-##### Picture > ./iptables [snoopspy_server_ip]
+##### Picture > TEST 80 PORT > ./iptables [snoopspy_server_ip] 
 
-<img width="338" alt="1" src="https://user-images.githubusercontent.com/50411472/73132740-419cf700-4062-11ea-9695-3946e0d1355a.PNG">
+<img width="338" alt="1" src="https://user-images.githubusercontent.com/50411472/73132774-e15a8500-4062-11ea-9af1-a87f836f60a5.PNG">
 
-<img width="421" alt="2" src="https://user-images.githubusercontent.com/50411472/73132741-42358d80-4062-11ea-97b9-f0621d271c7b.PNG">
+<img width="421" alt="2" src="https://user-images.githubusercontent.com/50411472/73132775-e1f31b80-4062-11ea-8024-f339802bf320.PNG">
 
-<img width="186" alt="3" src="https://user-images.githubusercontent.com/50411472/73132742-4366ba80-4062-11ea-96fe-a13ecb27b263.PNG">
+<img width="186" alt="3" src="https://user-images.githubusercontent.com/50411472/73132776-e28bb200-4062-11ea-9368-bef986ee1dce.PNG">
