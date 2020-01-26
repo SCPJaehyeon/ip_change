@@ -5,7 +5,7 @@ BOB 8th - Network(3rd stage)
 First > change ip_change.cpp > int ip_change(){~myIP}
 ```shell
 ./ip_change [Destination_IP]
-./clear_iptables
+./clear_iptables.sh
 ```
 
 
