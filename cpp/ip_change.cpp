@@ -85,7 +85,7 @@ int start_capture(char** argv){
 int ip_change(unsigned char *data, int pay_len){ //packet check and changer
     cmp = 0;
     unuse(pay_len);
-    u_int8_t myIP[4] ={172,30,1,54};
+    u_int8_t myIP[4] ={0,0,0,0}; //Your IP!
     int check_sip = memcmp(&data[SIP],&myIP,4);
     u_int32_t origin_ip;
     if(data[PROTO]==0x06 && check_sip ==0){
