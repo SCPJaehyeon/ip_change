@@ -25,8 +25,8 @@
 #define TCPCHECKSUM 36
 
 struct flow{ //flow structure
-    u_int64_t sip;
-    u_int64_t dip;
+    u_int32_t sip;
+    u_int32_t dip;
     u_int16_t sport;
     u_int16_t dport;
     bool operator<(const flow& flow2) const{
